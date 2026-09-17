@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zP0O23M7)
-
 # Star Reduction - Astronomical Image Processing
 
 FITS image processing application for star reduction in astronomical images. This project provides an intuitive graphical interface to detect, mask, and reduce stars in FITS images while preserving background structures (nebulae, galaxies, etc.).
